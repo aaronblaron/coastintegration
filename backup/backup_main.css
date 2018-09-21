@@ -1,0 +1,29 @@
+* {
+	margin:0;
+}
+header {
+	padding: 10px;
+	text-align: center;
+	font-size: 250%;
+	font-weight: bold;
+	background-color: steelblue;
+	width: 100%;
+}
+nav {
+	float: left;
+	background-color: steelblue;
+	height: 1000px;
+	width: 20%;
+}
+ul {
+	text-size: 200%;
+}
+article {
+	float: left;
+	margin: 10px;
+	text-align: top-left;
+	font-size: 35px;
+	width: 70%;
+}
+body {
+}
